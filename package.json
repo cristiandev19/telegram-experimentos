@@ -1,0 +1,26 @@
+{
+  "name": "telegram-experimentos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiandev19/telegram-experimentos.git"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "Cristian Sotomayor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristiandev19/telegram-experimentos/issues"
+  },
+  "homepage": "https://github.com/cristiandev19/telegram-experimentos#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
